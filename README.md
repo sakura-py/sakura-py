@@ -8,7 +8,8 @@
 - 🖥️ I'm working in the field of e-commerce.
 - 🚀 I'm currently researching distributed systems, practicing microservice architecture.
 - 🤖 I keep my eye on cutting-edge research in artificial intelligence.
-
+- 📝 I regularly update my code on GitHub, although it is not open source.
+  
 <h3 align="left">🔧 Languages and Tools :</h3>
 
 <p align="left"> 
@@ -21,6 +22,4 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" alt="sakura-py" />
-</p>
+
