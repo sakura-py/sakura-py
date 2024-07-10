@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" alt="sakura-py" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-py" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-py" alt="sakura-py" />
 </p>
