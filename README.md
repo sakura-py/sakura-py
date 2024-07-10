@@ -22,6 +22,4 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" alt="sakura-py" />
-</p>
+
