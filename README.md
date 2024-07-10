@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<a href="https://github.com/sakura-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/sakura-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-py" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-py" />
+</p>
