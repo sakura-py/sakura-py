@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm sakura-py</h1>
+<h3 align="center">A development engineer with ideals.</h3>
 <!--
 **sakura-py/sakura-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<a href="https://github.com/sakura-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/sakura-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-py" />
+</a>
