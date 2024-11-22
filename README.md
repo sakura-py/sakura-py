@@ -3,7 +3,7 @@
 
 <h3 align="left">☕ About me :</h3>
 
-- 🌱 I’m currently learning **go**.
+- 🌱 I’m currently learning **go, python**.
 - 🧐 I'm more familiar with **go, php**.
 - 🖥️ I'm working in the field of e-commerce.
 - 🚀 I'm currently researching distributed systems, practicing microservice architecture.
@@ -12,7 +12,7 @@
   
 <h3 align="left">🔧 Languages and Tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,mysql,linux,nginx,docker,vue,sass,js,jquery,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,python,mysql,linux,nginx,docker,vue,sass,js,jquery,html,css,git)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sakura-py&count_private=true&show_icons=true" alt="sakura-py" />
